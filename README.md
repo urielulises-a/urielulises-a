@@ -7,14 +7,14 @@ Welcome to my digital space! I am a student of Computer Systems Engineering pass
 ## 🚀 Skills and Technologies
 
 - **Programming Languages:** Java, Python, C++
-- **Web Development:** HTML, CSS, JavaScript
-- **Database:** MySQL, MongoDB
-- **Tools and Frameworks:** Git, Bootstrap
+- **Web Development:** PHP
+- **Database:** MySQL
+- **Tools and Frameworks:** Git
 - **Operating Systems:** Windows, Linux
 
 ## 👾 Video Game Enthusiast
 
-When I'm not immersed in the code world, I love exploring virtual realms. Some of my favorite games include: rust, league of legends, world of tanks and souls-like games .
+When I'm not immersed in the code world, I love exploring virtual realms. Some of my favorite games include: rust, league of legends, world of tanks and souls-like games.
 
 ## 📚 Lifelong Learner
 
