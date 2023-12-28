@@ -2,7 +2,7 @@
 
 ## About Me
 
-Welcome to my digital space! I am a student of Computer Systems Engineering passionate about technology, video games, and continuous learning. My insatiable curiosity drives me to explore new technologies and dive into challenging projects.
+I am a student of Computer Systems Engineering passionate about technology, video games, and continuous learning. My insatiable curiosity drives me to explore new technologies and dive into challenging projects.
 
 ## 🚀 Skills and Technologies
 
@@ -15,6 +15,7 @@ Welcome to my digital space! I am a student of Computer Systems Engineering pass
 ## 👾 Video Game Enthusiast
 
 When I'm not immersed in the code world, I love exploring virtual realms. Some of my favorite games include: rust, league of legends, world of tanks and souls-like games.
+I also love doing typing challenges and typing games with an avg score of 110 wpm
 
 ## 📚 Lifelong Learner
 
