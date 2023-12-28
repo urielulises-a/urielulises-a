@@ -15,6 +15,7 @@ I am a student of Computer Systems Engineering passionate about technology, vide
 ## 👾 Video Game Enthusiast
 
 When I'm not immersed in the code world, I love exploring virtual realms. Some of my favorite games include: rust, league of legends, world of tanks and souls-like games.
+
 I also love doing typing challenges and typing games with an avg score of 110 wpm
 
 ## 📚 Lifelong Learner
