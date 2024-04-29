@@ -12,7 +12,5 @@ I also love doing typing challenges and typing games with an avg score of 130 wp
 
 ## 📚 Lifelong Learner
 
-I consider myself a perpetual learner. I'm always seeking opportunities to learn and enhance my skills, whether through books, programming tournaments, online tutorials, or hands-on projects. I am committed to my continuous development in the field of computer systems engineering.
-
-Let's do something amazing!
+I consider myself a perpetual learner. I'm always seeking opportunities to learn and enhance my skills, whether through books, programming tournaments, online tutorials, or hands-on projects. 
 
