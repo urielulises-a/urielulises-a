@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a student of Computer Systems Engineering passionate about technology, video games, and continuous learning. My insatiable curiosity drives me to explore new technologies and dive into challenging projects.
+I am a student of Computer Systems Engineering passionate about technology, video games, and continuous learning. My curiosity drives me to explore new technologies and dive into challenging projects.
 
 ## 👾 Video Game Enthusiast
 
